@@ -1,6 +1,6 @@
 playground
 ==========
-my playground for experiments
+Mohsin's playground for experiments
 
-This my playground repo... 
+This is my playground repo... 
 
